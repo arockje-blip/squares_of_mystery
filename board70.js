@@ -1,5 +1,5 @@
 (() => {
-  const BOARD_SIZE = 70;
+  const BOARD_SIZE = 67;
   const DATA_URL = 'data.json';
 
   const boardEl = document.getElementById('board');
