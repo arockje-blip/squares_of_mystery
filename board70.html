@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Squares of Mystery - 70</title>
+  <link rel="stylesheet" href="board70.css" />
+</head>
+<body>
+  <header>
+    <h1>Squares of Mystery (70 tiles)</h1>
+  </header>
+
+  <main class="layout">
+    <section class="board-panel">
+      <div id="board" class="board" aria-live="polite"></div>
+    </section>
+
+    <aside class="control-panel">
+      <h2>Controls</h2>
+
+      <div class="panel-section">
+        <label for="teamCount">Number of teams</label>
+        <input id="teamCount" type="number" min="1" max="10" value="10" />
+        <button id="initTeamsBtn">Initialize Teams</button>
+      </div>
+
+      <div class="panel-section">
+        <label for="teamSelect">Select team</label>
+        <select id="teamSelect"></select>
+
+        <label for="stepInput">Move steps</label>
+        <input id="stepInput" type="number" min="1" max="20" placeholder="Enter steps" />
+
+        <div class="button-row">
+          <button id="moveForwardBtn">Move Forward</button>
+          <button id="moveBackwardBtn">Move Backward</button>
+        </div>
+      </div>
+
+      <div class="panel-section">
+        <button id="undoBtn">Undo Last Move</button>
+        <button id="resetBtn">Reset Game</button>
+      </div>
+
+      <div class="panel-section">
+        <h3>Teams</h3>
+        <ul id="teamList" class="team-list"></ul>
+      </div>
+    </aside>
+  </main>
+
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-content">
+      <h3 id="modalTitle"></h3>
+      <p id="modalBody"></p>
+      <button id="modalClose">OK</button>
+    </div>
+  </div>
+
+  <script src="board70.js"></script>
+</body>
+</html>

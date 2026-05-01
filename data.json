@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 2,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 3,
+    "type": "empty",
+    "text": ""
+  },
+  {
+    "id": 4,
+    "type": "empty",
+    "text": ""
+  },
+  {
+    "id": 5,
+    "type": "mine",
+    "text": ""
+  },
+  {
+    "id": 6,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 7,
+    "type": "hex",
+    "text": ""
+  },
+  {
+    "id": 8,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 9,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 10,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 11,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 12,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 13,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 14,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 15,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 16,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 17,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 18,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 19,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 20,
+    "type": "hex",
+    "text": ""
+  },
+  {
+    "id": 21,
+    "type": "empty",
+    "text": ""
+  },
+  {
+    "id": 22,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 23,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 24,
+    "type": "mine",
+    "text": ""
+  },
+  {
+    "id": 25,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 26,
+    "type": "hex",
+    "text": ""
+  },
+  {
+    "id": 27,
+    "type": "empty",
+    "text": ""
+  },
+  {
+    "id": 28,
+    "type": "empty",
+    "text": ""
+  },
+  {
+    "id": 29,
+    "type": "mine",
+    "text": ""
+  },
+  {
+    "id": 30,
+    "type": "hex",
+    "text": ""
+  },
+  {
+    "id": 31,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 32,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 33,
+    "type": "hex",
+    "text": ""
+  },
+  {
+    "id": 34,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 35,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 36,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 37,
+    "type": "empty",
+    "text": ""
+  },
+  {
+    "id": 38,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 39,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 40,
+    "type": "mine",
+    "text": ""
+  },
+  {
+    "id": 41,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 42,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 43,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 44,
+    "type": "hex",
+    "text": ""
+  },
+  {
+    "id": 45,
+    "type": "hex",
+    "text": ""
+  },
+  {
+    "id": 46,
+    "type": "mine",
+    "text": ""
+  },
+  {
+    "id": 47,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 48,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 49,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 50,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 51,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 52,
+    "type": "empty",
+    "text": ""
+  },
+  {
+    "id": 53,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 54,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 55,
+    "type": "mine",
+    "text": ""
+  },
+  {
+    "id": 56,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 57,
+    "type": "mine",
+    "text": ""
+  },
+  {
+    "id": 58,
+    "type": "hex",
+    "text": ""
+  },
+  {
+    "id": 59,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 60,
+    "type": "mine",
+    "text": ""
+  },
+  {
+    "id": 61,
+    "type": "mine",
+    "text": ""
+  },
+  {
+    "id": 62,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 63,
+    "type": "quiz",
+    "text": ""
+  },
+  {
+    "id": 64,
+    "type": "hex",
+    "text": ""
+  },
+  {
+    "id": 65,
+    "type": "dare",
+    "text": ""
+  },
+  {
+    "id": 66,
+    "type": "hex",
+    "text": ""
+  },
+  {
+    "id": 67,
+    "type": "empty",
+    "text": ""
+  },
+  {
+    "id": 68,
+    "type": "empty",
+    "text": ""
+  },
+  {
+    "id": 69,
+    "type": "empty",
+    "text": ""
+  },
+  {
+    "id": 70,
+    "type": "empty",
+    "text": ""
+  }
+]
